@@ -1,0 +1,6 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+R1,4k7,R_0603_1608Metric,144.78,-94.615,-90,bottom
+R2,4k7,R_0603_1608Metric,149.035,-81.375,180,bottom
+R3,10k,R_0603_1608Metric,149.035,-83.82,180,bottom
+R4,4k7,R_0603_1608Metric,145.415,-88.265,90,bottom
+R5,4k7,R_0603_1608Metric,149.225,-87.63,90,bottom

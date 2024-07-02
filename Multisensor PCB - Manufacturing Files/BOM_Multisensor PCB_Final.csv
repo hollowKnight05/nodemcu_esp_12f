@@ -1,0 +1,9 @@
+Date:,01-03-2024 12:59,,,,,,,,
+Tool:,Eeschema 7.0.10,,,,,,,,
+Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor,Part Number,DNP,Link
+"J1, J2",2,Conn_01x03,Conn_01x03,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,Pin Header 01x03 Male,mpe,MPE 087-1-003,,https://www.reichelt.de/de/en/pin-headers-2-54-mm-1x03-straight-mpe-087-1-003-p119880.html?&trstct=pos_0&nbc=1
+J3,1,Screw_Terminal_01x10,Screw_Terminal_01x10,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-10-2.54_1x10_P2.54mm_Horizontal",Fixed Terminal Blocks 10P 2.54mm 90DEG,DEGSON,"DG308 2,54-10",,https://www.reichelt.de/de/en/pcb-terminal-10-pin-2-54-mm-spacing-dg308-2-54-10-p276220.html?GROUPID=7541&START=0&OFFSET=16&SID=9632f9db045615f54b4458f58609bf9790b8733e4ab5eef8f827e&LANGUAGE=EN&&r=1
+J4,1,Screw_Terminal_01x03,Screw_Terminal_01x03,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal",Fixed Terminal Blocks 3P 2.54mm 90DEG,DEGSON,"DG308 2,54-3",,https://www.reichelt.de/de/en/pcb-terminal-3-pin-2-54-mm-spacing-dg308-2-54-3-p276215.html?&trstct=pol_1&nbc=1
+"R1, R2, R4, R5",4,4k7,R,Resistor_SMD:R_0603_1608Metric,Thin Film Resistors MCT 0603-25 0.1% AT P5 4K7,RND,"RND 1550603 BS SMD-Resistor, 0603, 4.7 kOhm, 100 mW, 5%",,https://www.reichelt.de/de/en/smd-resistor-0603-4-7-kohm-100-mw-5--rnd-1550603-bs-p250170.html?&trstct=pol_0&nbc=1
+R3,1,10k,R,Resistor_SMD:R_0603_1608Metric,Thin Film Resistors MCT 0603-05 0.1% AT P5 10K,RND,"RND 1550603 BU SMD-Resistor, 0603, 10 kOhm, 100 mW, 5%",,https://www.reichelt.de/de/en/smd-resistor-0603-10-kohm-100-mw-5--rnd-1550603-bu-p250172.html?&trstct=pol_1&nbc=1
+,2,,,,Female Header 15 PIN SIL VERTICAL SOCKET TIN,Sullins Connector Solutions,PPTC151LFBN-RC,x,https://www.digikey.de/en/products/detail/sullins-connector-solutions/PPTC151LFBN-RC/810153
